@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm [Tao Han](https://github.com/tanhao10200)
 
-- 🔭 I’m currently a Master Student of School of Artificial Intelligence, Optics and Electronics (iOPEN)((https://iopen.nwpu.edu.cn/)) in [NWPU](http://www.nwpu.edu.cn/).
+- 🔭 I’m currently a Master Student of School of Artificial Intelligence, Optics and Electronics ((iOPEN)(https://iopen.nwpu.edu.cn/)) in [NWPU](http://www.nwpu.edu.cn/).
 
 <p align="center">
 <a href="https://github.com/gjy3035">
