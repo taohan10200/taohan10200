@@ -1,4 +1,23 @@
-### Hi there 👋
+
+
+### Hi there 👋, I'm [Junyu Gao](https://github.com/tanhao10200)
+
+- 🔭 I’m currently a Master Student of School of Artificial Intelligence, Optics and Electronics (iOPEN)(https://iopen.nwpu.edu.cn/)) in [NWPU](http://www.nwpu.edu.cn/).
+
+<p align="center">
+<a href="https://github.com/gjy3035">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=taohan10200&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taohan10200&layout=compact&langs_count=8&theme=vue&count_private=true"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="mailto:hantao10200@gmail.com">Email</a>
+  &nbsp;&nbsp;
+  <a href="https://taohan10200.github.io/">HomePage</a>
+</p>
 
 <!--
 **taohan10200/taohan10200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
