@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm [Tao Han](https://github.com/tanhao10200)
 
-- 🔭 I’m currently a research assistant at Shanghai AI Lab.
+- 🔭 I’m currently a Research Assistant at [Shanghai AI Lab](https://www.shlab.org.cn/).
 
 <p align="center">
 <a href="https://github.com/gjy3035">
