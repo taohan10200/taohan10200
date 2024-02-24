@@ -16,7 +16,7 @@
   &nbsp;&nbsp;
   <a href="https://taohan10200.github.io/">HomePage</a>
 </p>
-- 👯 I’m looking to collaborate on Large Weather Model (LWM) and Ai4Science.  
+- 👯 I’m looking to collaborate on Large Weather Model (LWM) and Ai4Science. Please feel free to drop me if you are interested in this topic.
 <!--
 **taohan10200/taohan10200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
