@@ -1,6 +1,6 @@
 ### 👋Hello , I am [Tao Han](https://github.com/tanhao10200)  ✨. ![]( https://visitor-badge.glitch.me/badge?page_id=tanhao10200.homepage)
 
-- 🔭 I’m currently a PhD student at [HKUST](https://hkust.edu.hk/) and intern at [Shanghai AI Lab](https://www.shlab.org.cn/).
+- 🔭 I’m currently a PhD student at [HKUST](https://hkust.edu.hk/) and an intern at [Shanghai AI Lab](https://www.shlab.org.cn/).
 
 <p align="center">
 <a href="https://github.com/gjy3035">
